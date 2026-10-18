@@ -1,0 +1,20 @@
+GIMP Palette
+Name: BMP palette
+Columns: 16
+#
+0 0 255	Color 0
+226 170 152	Color 1
+17 17 17	Color 2
+51 51 51	Color 3
+85 85 85	Color 4
+119 0 0	Color 5
+153 0 0	Color 6
+170 34 34	Color 7
+204 68 68	Color 8
+238 85 85	Color 9
+238 136 136	Color 10
+255 68 68	Color 11
+204 204 204	Color 12
+238 170 255	Color 13
+255 187 187	Color 14
+255 255 255	Color 15

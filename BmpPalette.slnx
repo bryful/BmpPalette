@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BmpPalette/BmpPalette.vcxproj" Id="df317151-f264-4f6c-9b31-378b44d60372" />
+  <Project Path="Pal16Edit/Pal16Edit.vcxproj" Id="b6d5a1d4-f80c-429d-93a1-1f12c0f3a3ab" />
+</Solution>

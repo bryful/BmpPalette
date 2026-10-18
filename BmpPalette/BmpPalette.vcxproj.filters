@@ -1,0 +1,9 @@
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="BmpPalette.cpp" />
+    <ClInclude Include="..\Shared\PaletteIO.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Shared\ImageIO.h" />
+  </ItemGroup>
+</Project>
